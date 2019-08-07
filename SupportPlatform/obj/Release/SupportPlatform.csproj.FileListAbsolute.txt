@@ -1,0 +1,6 @@
+D:\CsharpProjects\SupportPlatform0321\SupportPlatform\bin\Release\SupportPlatform.exe.config
+D:\WeiJieHuang\GFL\广富林\GFL\SupportPlatform0503\SupportPlatform\bin\Release\SupportPlatform.exe.config
+D:\WeiJieHuang\GFL\广富林\GFL\SupportPlatform0503\SupportPlatform\obj\Release\SupportPlatform.login.resources
+D:\WeiJieHuang\GFL\广富林\GFL\SupportPlatform0503\SupportPlatform\obj\Release\SupportPlatform.Mainform.resources
+D:\WeiJieHuang\GFL\广富林\GFL\SupportPlatform0503\SupportPlatform\obj\Release\SupportPlatform.Properties.Resources.resources
+D:\WeiJieHuang\GFL\广富林\GFL\SupportPlatform0503\SupportPlatform\obj\Release\SupportPlatform.csproj.GenerateResource.Cache
